@@ -1,3 +1,7 @@
 Main(){
 	print "hello wrold!"
 }
+metho()
+{
+   print "my name is xiaofeiniu"
+}
